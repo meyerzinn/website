@@ -5,7 +5,7 @@ title = "Meyer Zinn"
 theme = "hyde"
 
 [Params]
-description = "Turing Scholar at the University of Texas at Austin, studying computer science."
+description = "Operating systems at Apple"
 
 [markup]
   [markup.goldmark]
